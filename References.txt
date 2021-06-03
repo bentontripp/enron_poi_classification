@@ -1,0 +1,10 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+https://math.stackexchange.com/questions/2341704/feature-scalings-effect-on-gradient-descent
+https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://stackoverflow.com/questions/45368255/error-in-loading-pickle
